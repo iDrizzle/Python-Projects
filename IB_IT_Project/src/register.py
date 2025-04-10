@@ -1,4 +1,6 @@
 import customtkinter as ctk
+import pandas as pd
+
 
 
 class RegisterPage(ctk.CTkFrame):
